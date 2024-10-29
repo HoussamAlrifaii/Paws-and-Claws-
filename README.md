@@ -1,5 +1,3 @@
-
-![Uploading AdobeStock_84016419.jpeg…]()
 ![10_Differences_Between_Cats_and_Dogs](https://github.com/user-attachments/assets/d61f861c-58b1-4703-b907-5341505f6a77)
 
 
