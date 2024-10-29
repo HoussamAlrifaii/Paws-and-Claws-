@@ -55,5 +55,3 @@ pip install tensorflow matplotlib numpy pandas scikit-learn
 ## Conclusion  
 This project showcases the potential of deep learning in image classification environments. By effectively distinguishing between cats and dogs, we can explore further progress in automated visual recognition, paving the way for future applications that may benefit various industries.  
 
-## License  
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
