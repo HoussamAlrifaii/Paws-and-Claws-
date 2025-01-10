@@ -1,7 +1,7 @@
 ![10_Differences_Between_Cats_and_Dogs](https://github.com/user-attachments/assets/d61f861c-58b1-4703-b907-5341505f6a77)
 
 
-# Cats and Dogs Classifier  
+# PawsNClaws 
 
 ## Introduction   
 This project focuses on developing a classifier to differentiate between cats and dogs using deep learning techniques, specifically convolutional neural networks (CNNs). By analyzing image patterns and characteristics, the model's effectiveness demonstrates potential applications in animal shelter management and pet ownership guidance.
